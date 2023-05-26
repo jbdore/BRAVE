@@ -1,5 +1,5 @@
 # BRAVE overview
-BRAVE is a collaborative research project started in January 2018, that aims at creating new physical-layer (PHY) techniques devoted to beyond-5G wireless communications. The partners (Siradel, Central-Supélec, CEA-Leti and ANFR) are designing new high-data-rate and energy-efficient waveforms that operate in frequencies above 90 GHz. Application to scenarios such as kiosks, backhauling, hotspots are assessed to evaluate the benefit of the proposed technology. http://www.brave-beyond5g.com/
+BRAVE is a collaborative research project started in January 2018, that aims at creating new physical-layer (PHY) techniques devoted to beyond-5G wireless communications. The partners (Siradel, Central-Supélec, CEA-Leti and ANFR) are designing new high-data-rate and energy-efficient waveforms that operate in frequencies above 90 GHz. Application to scenarios such as kiosks, backhauling, hotspots are assessed to evaluate the benefit of the proposed technology.
 
 
 
@@ -77,7 +77,7 @@ Deliverables
 White papers
 ------------
 
-*   Y. Corre, J-B. Doré, C. Bader, and E. Faussurier, _[How beyond-5G frequencies will further enhance the next-generation wireless networks performance](http://www.brave-beyond5g.com/wp-content/uploads/2019/08/BRAVE-WP-How-B5G-frequencies-will-further-enhance-next-generation-wireless-networks-performance.pdf)_, August 2019.
+*   Y. Corre, J-B. Doré, C. Bader, and E. Faussurier, _[How beyond-5G frequencies will further enhance the next-generation wireless networks performance](https://github.com/jbdore/BRAVE/blob/82e544e43843a1c5dba76452ba2f0c0ad40a55b6/White%20papers/BRAVE-WP-How-B5G-frequencies-will-further-enhance-next-generation-wireless-networks-performance.pdf)_, August 2019.
 *   Contribution to the collective white paper by the 6G flagship initiative: [_White paper on Broadband Connectivity in 6G_](https://www.6gchannel.com/items/6g-white-paper-broadband-connectivity-6g/), June 2020.
 *   Contribution to the collective white paper by the 6G flagship initiative: _[White Paper on RF enabling 6G – opportunities and challenges from technology to spectrum](https://www.6gchannel.com/items/6g-white-paper-rf-spectrum/)_, April 2021.
-*   S. Bicaïs, J-B. Doré, M. Saad, M. Alawieh, F. Bader, J. Palicot, Y. Corre, G. Gougeon, and E. Faussurier, Wireless [Connectivity in the Sub-THz Spectrum: A Path to 6G](http://www.brave-beyond5g.com/wp-content/uploads/2021/12/White_paper_BRAVE_Nov2021_final.pdf), Nov. 2021.
+*   S. Bicaïs, J-B. Doré, M. Saad, M. Alawieh, F. Bader, J. Palicot, Y. Corre, G. Gougeon, and E. Faussurier, Wireless [Connectivity in the Sub-THz Spectrum: A Path to 6G](https://github.com/jbdore/BRAVE/blob/82e544e43843a1c5dba76452ba2f0c0ad40a55b6/White%20papers/BRAVE-WP-Wireless-connectivity-in-the-subTHz-spectrum-A-path-to-6G.pdf), Nov. 2021.
