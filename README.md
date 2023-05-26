@@ -1,7 +1,18 @@
 # BRAVE overview
 BRAVE is a collaborative research project started in January 2018 and completed in November 2021, that aimed at creating new physical-layer (PHY) techniques devoted to beyond-5G wireless communications. The partners (Siradel, Central-Supélec, CEA-Leti and ANFR) designed new high-data-rate and energy-efficient waveforms that operate in frequencies above 90 GHz. Application to scenarios such as kiosks, backhauling, hotspots were assessed to evaluate the benefit of the proposed technology.
 
+# Conclusion
+The BRAVE research project ended on November 30, 2021, after nearly four years dedicated to the exploration, optimization and demonstration of a new physical layer for ultra-broadband beyond-5G or 6G technologies in the sub-THz frequency bands. BRAVE partners are SIRADEL (service & software solution provider), CEA-Leti (research institute), Centrale-Supélec (engineering school), and ANFR (spectrum regulator). A summary of our final technical proposals was delivered in a white paper: [Connectivity in the Sub-THz Spectrum: A Path to 6G](https://github.com/jbdore/BRAVE/blob/82e544e43843a1c5dba76452ba2f0c0ad40a55b6/White%20papers/BRAVE-WP-Wireless-connectivity-in-the-subTHz-spectrum-A-path-to-6G.pdf).
 
+We relied on the spectrum regulation opportunities (up to 105 GHz of band potentially usable by land mobile communication networks between frequencies 100 and 300 GHz) and modeling of physical layer deficiencies (propagation channel, phase noise) to design suitable waveforms and adjust their parameters: Single-carrier; Polar-QAM modulation; Filter-shape Index Modulation (FSIM); and MIMO energy detector. Those solutions offer a range of trade-offs in terms complexity, energy consumption and data rates, which permits to answer several sub-THz use cases.
+
+We demonstrated our proposals based on key beyond-5G applications, which require data rates in range from several Gbps to 1 Tbps, and may have strong societal and economical impacts: high-capacity back/front-haul; fixed wireless access; broadband device-to-device (D2D); or enhanced hotspots. See details in Deliverable D1.2 [Final regulation status, Scenarios and Requirements updates](https://github.com/jbdore/BRAVE/blob/3061b4cb66e9b5f34a2bc502da4eb18966a1b5b5/delivrables/BRAVE-D1.2-Final-regulation-status-scenarios-and-requirements-update-v1-0.pdf) (Nov. 2021). From the simulated scenarios, we found system parameters (e.g. network dimension, transmit power, antenna gains) and appropriate compromises that answer the use case requirements. Studies are reported in Deliverable D3.1: [Performance assessments](https://github.com/jbdore/BRAVE/blob/3061b4cb66e9b5f34a2bc502da4eb18966a1b5b5/delivrables/BRAVE-D3.1-Performance-assessment-v1-0.pdf) (Nov. 2021). Please visit our website if you are interested in BRAVE achievements. Most project’s deliverables, scientific publications, predicted channel data, and workshop presentations are freely available; links are given below; we will be pleased and honored if those outcomes are exploited in future research and technology work towards efficient beyond-5G communication systems.
+
+You may contact us by email:
+    - Carlos Faouzi Bader (CentraleSupélec): carlos.bader@centralesupelec.fr.
+    - Yoann Corre (Siradel): ycorre@siradel.com.
+    - Jean-Baptiste Doré (CEA-Leti) : jean-baptiste.dore@cea.fr.
+    - Emmanuel Faussurier (ANFR): Emmanuel.faussurier@anfr.fr.
 
 # BRAVE Project dissemination
 
