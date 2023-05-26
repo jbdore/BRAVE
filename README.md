@@ -1,5 +1,5 @@
 # BRAVE overview
-BRAVE is a collaborative research project started in January 2018, that aims at creating new physical-layer (PHY) techniques devoted to beyond-5G wireless communications. The partners (Siradel, Central-Supélec, CEA-Leti and ANFR) are designing new high-data-rate and energy-efficient waveforms that operate in frequencies above 90 GHz. Application to scenarios such as kiosks, backhauling, hotspots are assessed to evaluate the benefit of the proposed technology.
+BRAVE is a collaborative research project started in January 2018 and completed in November 2021, that aimed at creating new physical-layer (PHY) techniques devoted to beyond-5G wireless communications. The partners (Siradel, Central-Supélec, CEA-Leti and ANFR) designed new high-data-rate and energy-efficient waveforms that operate in frequencies above 90 GHz. Application to scenarios such as kiosks, backhauling, hotspots were assessed to evaluate the benefit of the proposed technology.
 
 
 
