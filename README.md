@@ -10,9 +10,13 @@ We relied on the spectrum regulation opportunities (up to 105 GHz of band potent
 We demonstrated our proposals based on key beyond-5G applications, which require data rates in range from several Gbps to 1 Tbps, and may have strong societal and economical impacts: high-capacity back/front-haul; fixed wireless access; broadband device-to-device (D2D); or enhanced hotspots. See details in Deliverable D1.2: [Final regulation status, Scenarios and Requirements updates](https://github.com/jbdore/BRAVE/blob/3061b4cb66e9b5f34a2bc502da4eb18966a1b5b5/delivrables/BRAVE-D1.2-Final-regulation-status-scenarios-and-requirements-update-v1-0.pdf) (Nov. 2021). From the simulated scenarios, we found system parameters (e.g. network dimension, transmit power, antenna gains) and appropriate compromises that answer the use case requirements. Studies are reported in Deliverable D3.1: [Performance assessments](https://github.com/jbdore/BRAVE/blob/3061b4cb66e9b5f34a2bc502da4eb18966a1b5b5/delivrables/BRAVE-D3.1-Performance-assessment-v1-0.pdf) (Nov. 2021). Please visit our website if you are interested in BRAVE achievements. Most project’s deliverables, scientific publications, predicted channel data, and workshop presentations are freely available; links are given below; we will be pleased and honored if those outcomes are exploited in future research and technology work towards efficient beyond-5G communication systems.
 
 You may contact us by email:
+
     - Carlos Faouzi Bader (CentraleSupélec): carlos.bader@centralesupelec.fr.
+    
     - Yoann Corre (Siradel): ycorre@siradel.com.
+    
     - Jean-Baptiste Doré (CEA-Leti) : jean-baptiste.dore@cea.fr.
+    
     - Emmanuel Faussurier (ANFR): Emmanuel.faussurier@anfr.fr.
 
 # BRAVE Project dissemination
