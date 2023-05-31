@@ -10,6 +10,6 @@ Data are stored in a Matlab file including a sparse 134×134 cell matrix in whic
 *   SNR
 *   Peak throughput obtained with the P-QAM modulation under medium phase noise
 
-DOWNLOAD the user data guidelines.
+[DOWNLOAD](https://github.com/jbdore/BRAVE/blob/c8f4ed187aa36b40dc3d69b06123a75e908f0348/dataset/urban-backhaul-data/BRAVE%20-%20Description%20of%20the%20urban%20backhaul%20data%20-%20v1-0.pdf) the user data guidelines.
 
-DOWNLOAD the Matlab data file.
+[DOWNLOAD](https://github.com/jbdore/BRAVE/blob/c8f4ed187aa36b40dc3d69b06123a75e908f0348/dataset/urban-backhaul-data/BRAVE%20-%20Urban%20Backhaul%20Data.mat) the Matlab data file.
