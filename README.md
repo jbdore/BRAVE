@@ -1,6 +1,13 @@
 # BRAVE overview
-BRAVE is a collaborative research project started in January 2018, that aimed at creating new physical-layer (PHY) techniques devoted to beyond-5G wireless communications. The partners designed new high-data-rate and energy-efficient waveforms that operate in frequencies above 90 GHz. Application to scenarios such as kiosks, backhauling, hotspots were assessed to evaluate the benefit of the proposed technology.
+BRAVE is a collaborative research project started in January 2018, that aimed at creating new physical-layer (PHY) techniques devoted to beyond-5G wireless communications. The partners designed new high-data-rate and energy-efficient waveforms that operate in frequencies between 90 GHz and 300 GHz i.e; in the sub-THz spectrum. Application to scenarios such as kiosks, backhauling, hotspots were assessed to evaluate the benefit of the proposed technology.
 Partners are SIRADEL (service & software solution provider), CEA-Leti (research institute), Centrale-Supélec (engineering school), and ANFR (spectrum regulator).
+You will find below in this page:
+
+*   The main project's conclusions;
+
+*   The publications (deliverables, scientific articles, and white papers);
+*   
+*   Free sub-THz channel samples obtained from ray-tracing.
 
 # BRAVE conclusions
 The BRAVE research project ended on November 30, 2021, after nearly four years dedicated to the exploration, optimization and demonstration of a new physical layer for ultra-broadband beyond-5G or 6G technologies in the sub-THz frequency bands. BRAVE partners are SIRADEL (service & software solution provider), CEA-Leti (research institute), Centrale-Supélec (engineering school), and ANFR (spectrum regulator). A summary of our final technical proposals was delivered in a white paper: [Connectivity in the Sub-THz Spectrum: A Path to 6G](https://github.com/jbdore/BRAVE/blob/82e544e43843a1c5dba76452ba2f0c0ad40a55b6/White%20papers/BRAVE-WP-Wireless-connectivity-in-the-subTHz-spectrum-A-path-to-6G.pdf).
@@ -93,3 +100,13 @@ White papers
 *   Contribution to the collective white paper by the 6G flagship initiative: [_White paper on Broadband Connectivity in 6G_](https://www.6gchannel.com/items/6g-white-paper-broadband-connectivity-6g/), June 2020.
 *   Contribution to the collective white paper by the 6G flagship initiative: _[White Paper on RF enabling 6G – opportunities and challenges from technology to spectrum](https://www.6gchannel.com/items/6g-white-paper-rf-spectrum/)_, April 2021.
 *   S. Bicaïs, J-B. Doré, M. Saad, M. Alawieh, F. Bader, J. Palicot, Y. Corre, G. Gougeon, and E. Faussurier, Wireless [Connectivity in the Sub-THz Spectrum: A Path to 6G](https://github.com/jbdore/BRAVE/blob/82e544e43843a1c5dba76452ba2f0c0ad40a55b6/White%20papers/BRAVE-WP-Wireless-connectivity-in-the-subTHz-spectrum-A-path-to-6G.pdf), Nov. 2021.
+
+# Open data
+
+BRAVE shares part of the data produced during its research in order to make them profitable to the 6G scientific and technological community. This data can be freely used for private activities. However, if exploited into a published or patented work, we kindly ask users to properly acknowledge the help by BRAVE partners. For any question, please contact us.
+
+The backhaul link performance predictions described in deliverable D3.1 (see appendix A.1) can be downloaded as a Matlab file from [here]().
+
+The dual-polar ray-tracing channel predictions for the kiosk scenario described in deliverable D3.1 (see appendix A.2) can be downloaded as Matlab files [here]().
+
+The data is stored on a Github repository with public access. You may download a particular file by clicking the filename and then button “Download”. Or the whole BRAVE open dataset may also be downloaded as a single ZIP file from button “Code” in the root repository page.
