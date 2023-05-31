@@ -4,9 +4,7 @@ Partners are SIRADEL (service & software solution provider), CEA-Leti (research 
 You will find below in this page:
 
 *   Main project's conclusions;
-
 *   Publications (deliverables, scientific articles, and white papers);
-
 *   Free sub-THz channel samples obtained from ray-tracing.
 
 # BRAVE conclusions
