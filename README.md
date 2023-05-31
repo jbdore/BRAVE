@@ -3,10 +3,10 @@ BRAVE is a collaborative research project started in January 2018, that aimed at
 Partners are SIRADEL (service & software solution provider), CEA-Leti (research institute), Centrale-Supélec (engineering school), and ANFR (spectrum regulator).
 You will find below in this page:
 
-*   The main project's conclusions;
+*   Main project's conclusions;
 
-*   The publications (deliverables, scientific articles, and white papers);
-*   
+*   Publications (deliverables, scientific articles, and white papers);
+
 *   Free sub-THz channel samples obtained from ray-tracing.
 
 # BRAVE conclusions
