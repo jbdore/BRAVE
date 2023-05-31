@@ -12,8 +12,8 @@ We simulated twelve different transmitter situations, with an omni-directional o
 
 The LoS direct-path is dominant. However, there are some significant reflections on the ground, ceiling, pilar and surrounding walls that contribute to the channel diversity, thus leads to fading variations along the H matrix in both spatial and frequency dimensions. As expected, those variations reduce when changing the transmit omni-directional antenna for a directional pattern.
 
-DOWNLOAD the user data guidelines.
+[DOWNLOAD](https://github.com/jbdore/BRAVE/blob/663fb5e988a5408f1d2ce96994a28cd093af52da/dataset/kiosk-channel-data/BRAVE%20-%20Description%20of%20the%20kiosk%20scenario%20-%20v1-3.pdf) the user data guidelines.
 
-DOWNLOAD the Kiosk V/H omni-directional MIMO channel data.
+[DOWNLOAD](https://github.com/jbdore/BRAVE/tree/663fb5e988a5408f1d2ce96994a28cd093af52da/dataset/kiosk-channel-data) the Kiosk V/H omni-directional MIMO channel data.
 
-For any question or download of other channel files, please contact M. Yoann Corre, with following email’s object: “BRAVE – Request on kiosk MIMO channel data”.
+For any question or download of other channel files, please contact [M. Yoann Corre](mailto:ycorre@siradel.com), with following email’s object: “BRAVE – Request on kiosk MIMO channel data”.
