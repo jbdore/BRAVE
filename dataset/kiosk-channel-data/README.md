@@ -11,6 +11,9 @@ Note that if someone wants to get the H matrix for smaller antenna array, e.g. f
 ![Kiosk environment](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_fig1.png)
 Fig. 1: Kiosk environment.
 
+![Side view](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_fig2.png)
+Fig. 2: Side view – three different considered transmitter heights and orientations (left); Top view – position and orientation of the receiver antennas (right).
+
 We simulated twelve different transmitter situations, with an omni-directional or directional radiation pattern (at the antenna element), three different heights, and two polarization states (V/H or +/-45°).
 
 The LoS direct-path is dominant. However, there are some significant reflections on the ground, ceiling, pilar and surrounding walls that contribute to the channel diversity, thus leads to fading variations along the H matrix in both spatial and frequency dimensions. As expected, those variations reduce when changing the transmit omni-directional antenna for a directional pattern.
