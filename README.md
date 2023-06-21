@@ -12,7 +12,7 @@ The BRAVE research project ended on November 30, 2021, after nearly four years d
 
 We relied on the spectrum regulation opportunities (up to 105 GHz of band potentially usable by land mobile communication networks between frequencies 100 and 300 GHz) and modeling of physical layer deficiencies (propagation channel, phase noise) to design suitable waveforms and adjust their parameters: Single-carrier; Polar-QAM modulation; Filter-shape Index Modulation (FSIM); and MIMO energy detector. Those solutions offer a range of trade-offs in terms complexity, energy consumption and data rates, which permits to answer several sub-THz use cases.
 
-![BRAVE solution paradigm](/illustrations/BRAVE_paradigm.png | width=100)
+![BRAVE solution paradigm](/illustrations/BRAVE_paradigm.png)
 
 We demonstrated our proposals based on key beyond-5G applications, which require data rates in range from several Gbps to 1 Tbps, and may have strong societal and economical impacts: high-capacity back/front-haul; fixed wireless access; broadband device-to-device (D2D); or enhanced hotspots. See details in Deliverable D1.2: [Final regulation status, Scenarios and Requirements updates](https://github.com/jbdore/BRAVE/blob/3061b4cb66e9b5f34a2bc502da4eb18966a1b5b5/delivrables/BRAVE-D1.2-Final-regulation-status-scenarios-and-requirements-update-v1-0.pdf) (Nov. 2021). From the simulated scenarios, we found system parameters (e.g. network dimension, transmit power, antenna gains) and appropriate compromises that answer the use case requirements. Studies are reported in Deliverable D3.1: [Performance assessments](https://github.com/jbdore/BRAVE/blob/3061b4cb66e9b5f34a2bc502da4eb18966a1b5b5/delivrables/BRAVE-D3.1-Performance-assessment-v1-0.pdf) (Nov. 2021). Please visit our website if you are interested in BRAVE achievements. Most project’s deliverables, scientific publications, predicted channel data, and workshop presentations are freely available; links are given below; we will be pleased and honored if those outcomes are exploited in future research and technology work towards efficient beyond-5G communication systems.
 
@@ -110,3 +110,5 @@ The backhaul link performance predictions described in deliverable D3.1 (see app
 The dual-polar ray-tracing channel predictions for the kiosk scenario described in deliverable D3.1 (see appendix A.2) can be downloaded as Matlab files [here](https://github.com/jbdore/BRAVE/blob/57ba7510d645cfb295b37b998ed054253f164d74/dataset/kiosk-channel-data/README.md).
 
 The data is stored on a Github repository with public access. You may download a particular file by clicking the filename and then button “Download”. Or the whole BRAVE open dataset may also be downloaded as a single ZIP file from button “Code” in the root repository page.
+
+![Open data scenarios](/illustrations/Open_data_illustration.png)
