@@ -103,7 +103,7 @@ White papers
 
 # Open data
 
-BRAVE shares part of the data produced during its research in order to make them profitable to the 6G scientific and technological community. This data can be freely used for private activities. However, if exploited into a published or patented work, we kindly ask users to properly acknowledge the help by BRAVE partners. For any question, please contact us.
+BRAVE shares part of the data produced during its research in order to make them profitable to the 6G scientific and technological community. This data can be freely used for private activities. However, if exploited into a published or patented work, we kindly ask users to properly acknowledge the help by BRAVE partners. For any question, please [contact us](mailto:ycorre@siradel.com).
 
 The backhaul link performance predictions described in deliverable D3.1 (see appendix A.1) can be downloaded as a Matlab file from [here](https://github.com/jbdore/BRAVE/blob/57ba7510d645cfb295b37b998ed054253f164d74/dataset/urban-backhaul-data/README.md).
 
