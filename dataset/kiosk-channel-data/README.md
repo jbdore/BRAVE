@@ -8,7 +8,7 @@ The channel properties are simulated for a central frequency of 150 GHz, and a c
 The channel H matrix between the transmitter and all receivers is saved into a Matlab file. For each receiver, the H matrix is formed of 128 x 64 x 20 = 163 840 complex coefficients. One coefficient corresponds to the propagation channel gain between one transmit antenna element and one receive antenna element for a specific sub-carrier.
 Note that if someone wants to get the H matrix for smaller antenna array, e.g. for a 8 x 8 MIMO system, and for a single frequency, then a relevant sub-matrix can easily be extracted from the full predicted matrix.
 
-![Kiosk environment](BRAVE/illustrations/Kiosk_fig1.png)
+![Kiosk environment](./../illustrations/Kiosk_fig1.png)
 Fig. 1: Kiosk environment.
 
 We simulated twelve different transmitter situations, with an omni-directional or directional radiation pattern (at the antenna element), three different heights, and two polarization states (V/H or +/-45°).
