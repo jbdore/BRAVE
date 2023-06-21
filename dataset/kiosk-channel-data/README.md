@@ -1,6 +1,6 @@
-# Open data from the BRAVE Kiosk sub-THz scenario
+# Open data from the BRAVE Kiosk subTHz scenario
 
-BRAVE shares part of the data produced during its research in order to make them profitable to the 6G scientific and technological community. This data can be freely used for private activities. However, if exploited into a published or patented work, we kindly ask users to properly acknowledge the help by BRAVE partners.
+BRAVE shares part of the ray-tracing data produced during its research in order to make them profitable to the 6G scientific and technological community. This data can be freely used for private activities. However, if exploited into a published or patented work, we kindly ask users to properly acknowledge the help by BRAVE partners.
 
 The subTHz kiosk aims at downloading huge data rates; thus, we consider here the kiosk antenna as the “transmitter” and the user equipements as the “receivers”. The simulated scenario is composed of a fixed kiosk transmitter located in a wide indoor avenue in a shopping mall. More precisely, the kiosk transmitter is in the middle of a large patio, facing an intersection between two avenues; the transmitter vicinity may be considered as “open”, as shown in Fig. 17. The simulated receivers are distributed over the surface of half a disk in front of the kiosk transmitter with radius 10 m. Fig. 18 (right) illustrates the various receiver positions that have been predicted, with a specific antenna orientation at each position i.e. towards the kiosk. All receiver positions are in line-of-sight (LoS).
 
