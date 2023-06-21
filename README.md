@@ -105,7 +105,7 @@ White papers
 
 BRAVE shares part of the data produced during its research in order to make them profitable to the 6G scientific and technological community. This data can be freely used for private activities. However, if exploited into a published or patented work, we kindly ask users to properly acknowledge the help by BRAVE partners. For any question, please [contact us](mailto:ycorre@siradel.com).
 
-The backhaul link performance predictions described in deliverable D3.1 (see appendix A.1) can be downloaded as a Matlab file from [here](https://github.com/jbdore/BRAVE/blob/57ba7510d645cfb295b37b998ed054253f164d74/dataset/urban-backhaul-data/README.md).
+The backhaul link performance predictions described in deliverable D3.1 (see appendix A.1) can be downloaded as a Matlab file from [here](https://github.com/jbdore/BRAVE/blob/87d1e1e3452d9e619c100d9a8457840eade64a02/dataset/urban-backhaul-data/README.md).
 
 The dual-polar ray-tracing channel predictions for the kiosk scenario described in deliverable D3.1 (see appendix A.2) can be downloaded as Matlab files [here](https://github.com/jbdore/BRAVE/blob/636aedf90925b6e54de1eb9579be0cfbaf7645b9/dataset/kiosk-channel-data/README.md).
 
