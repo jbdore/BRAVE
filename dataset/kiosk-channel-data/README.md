@@ -8,15 +8,28 @@ The channel properties are simulated for a central frequency of 150 GHz, and a c
 The channel H matrix between the transmitter and all receivers is saved into a Matlab file. For each receiver, the H matrix is formed of 128 x 64 x 20 = 163 840 complex coefficients. One coefficient corresponds to the propagation channel gain between one transmit antenna element and one receive antenna element for a specific sub-carrier.
 Note that if someone wants to get the H matrix for smaller antenna array, e.g. for a 8 x 8 MIMO system, and for a single frequency, then a relevant sub-matrix can easily be extracted from the full predicted matrix.
 
-![Kiosk environment](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_fig1.png)
+![Figure 1: Kiosk environment](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_fig1.png)
 Fig. 1: Kiosk environment.
 
-![Side view](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_fig2.png)
+![Figure 2: Side view](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_fig2.png)
 Fig. 2: Side view – three different considered transmitter heights and orientations (left); Top view – position and orientation of the receiver antennas (right).
 
-We simulated twelve different transmitter situations, with an omni-directional or directional radiation pattern (at the antenna element), three different heights, and two polarization states (V/H or +/-45°).
+Table 1 gives some additional details on the transmitter properties. We simulated twelve different transmitter situations, with an omni-directional or directional radiation pattern (at the antenna element), three different heights (see Fig. 3), and two polarization states (V/H or +/-45°).
 
-The LoS direct-path is dominant. However, there are some significant reflections on the ground, ceiling, pilar and surrounding walls that contribute to the channel diversity, thus leads to fading variations along the H matrix in both spatial and frequency dimensions. As expected, those variations reduce when changing the transmit omni-directional antenna for a directional pattern.
+[Table 1](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_table1.png)
+
+The receiver detailed properties are given in Table 2.
+
+[Table 2](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_table2.png)
+
+The predicted ray-paths in Fig. 3 show that the LoS direct-path is dominant. However, there are some significant reflections on the ground, ceiling, pilar and surrounding walls that contribute to the channel diversity, thus leads to fading variations along the H matrix in both spatial and frequency dimensions. As expected, those variations reduce when changing the transmit omni-directional antenna for a directional pattern.
+
+![Figure 3: Examples of predicted ray-paths](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_fig3.png)
+Figure 3 : Examples of predicted ray-paths.
+
+Finally, Table 3 gives the list of Matlab MIMO channel sample files that are available on the open repository. “BS” stands for “base station”, which is equivalent to the “transmitter” in this scenario.
+
+[Table 3](https://github.com/jbdore/BRAVE/blob/fc62e4759bb38f52521c7a3678bdaa6baccbaba3/illustrations/Kiosk_table3.png)
 
 [DOWNLOAD](https://github.com/jbdore/BRAVE/blob/663fb5e988a5408f1d2ce96994a28cd093af52da/dataset/kiosk-channel-data/BRAVE%20-%20Description%20of%20the%20kiosk%20scenario%20-%20v1-3.pdf) the user data guidelines.
 
