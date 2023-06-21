@@ -107,7 +107,7 @@ BRAVE shares part of the data produced during its research in order to make them
 
 The backhaul link performance predictions described in deliverable D3.1 (see appendix A.1) can be downloaded as a Matlab file from [here](https://github.com/jbdore/BRAVE/blob/57ba7510d645cfb295b37b998ed054253f164d74/dataset/urban-backhaul-data/README.md).
 
-The dual-polar ray-tracing channel predictions for the kiosk scenario described in deliverable D3.1 (see appendix A.2) can be downloaded as Matlab files [here](https://github.com/jbdore/BRAVE/blob/57ba7510d645cfb295b37b998ed054253f164d74/dataset/kiosk-channel-data/README.md).
+The dual-polar ray-tracing channel predictions for the kiosk scenario described in deliverable D3.1 (see appendix A.2) can be downloaded as Matlab files [here](https://github.com/jbdore/BRAVE/blob/636aedf90925b6e54de1eb9579be0cfbaf7645b9/dataset/kiosk-channel-data/README.md).
 
 The data is stored on a Github repository with public access. You may download a particular file by clicking the filename and then button “Download”. Or the whole BRAVE open dataset may also be downloaded as a single ZIP file from button “Code” in the root repository page.
 
